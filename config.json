@@ -1,7 +1,16 @@
 {
+  "bluetooth_low_energy": {
+    "max_distance": 200,
+    "timeout": 30,
+    "update_frequency": 20,
+    "known_devices": {
+      "fda50693a4e24fb1afcfc6eb07647825-5-6": { "name": "artem", "measured_power": -61, "max_distance": 200 },
+      "126ec6db83fe36479a9048e4b4445314-5-6": { "name": "guest", "measured_power": -58, "max_distance": 200 }
+    }
+  },
+
   "// If a device's address is here, it'll be given a human-readable name":0,
   "known_devices" : {
-    "c0:52:3f:50:42:c9" : "office",
     "fc:a6:c6:04:db:79" : "hall_down",
     "cf:71:de:4d:f8:48" : "hall_up"
   },
