@@ -21,9 +21,9 @@
   "author": "Gordon Williams (gw@pur3.co.uk)",
   "license": "MPL-2.0",
   "dependencies": {
-    "json5": "^1.0.1",
-    "mqtt": "^2.0.1",
     "@abandonware/noble": "^1.9.2-8",
-    "minimist": "^1.2.5"
+    "json5": "^1.0.1",
+    "minimist": "^1.2.5",
+    "mqtt": "^2.0.1"
   }
 }
